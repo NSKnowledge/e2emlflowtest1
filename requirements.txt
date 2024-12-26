@@ -1,1 +1,5 @@
 dvc
+mlflow
+dagshub
+seaborn
+xgboost
